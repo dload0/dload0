@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**dload0/dload0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just hanging about.
 
-Here are some ideas to get you started:
+### 🚧 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Virtual Silence**: Obfuscation and virtualization of Java bytecode for protection against reversal.
+- **Nyx**: Rust injection client for Minecraft.
+
+### 🛠️ Languages
+
+- Java
+- C++
+- Rust
+- Golang
+- Typescript
+
+---
+
+- [ ] Contact me on discord @ dloadzer0
