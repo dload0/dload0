@@ -1,15 +1,5 @@
-### Hi there 👋
-
-Just hanging about.
-
-### 🚧 Projects
-
-- **Virtual Silence**: Obfuscation and virtualization of Java bytecode for protection against reversal.
-
-### 🛠️ Languages
-
-- Java
-- C++
-- Rust
-- Golang
-- Typescript
+<div align="center">
+  <br>
+  
+  *Gimme a couple of years and I'll eventually finish my projects.*
+</div>
